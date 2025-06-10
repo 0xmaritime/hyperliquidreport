@@ -412,8 +412,7 @@ const HyperliquidReport = () => {
           </div>
 
           <div className="mt-16 text-sm text-gray-500 italic">
-            Note: This analysis is based on publicly available data that cannot be independently verified. 
-            Trading perpetual futures carries substantial risk.
+            
           </div>
         </div>
       </section>
